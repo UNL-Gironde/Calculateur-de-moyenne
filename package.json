@@ -2,7 +2,7 @@
   "name": "test",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://geoffroyp2.github.io/Calculateur-de-moyenne",
+  "homepage": "http://UNL-Gironde.github.io/Calculateur-de-moyenne",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
